@@ -57,6 +57,9 @@ pip install -r requirements.txt
 # Navigate to the Flask directory
 cd Flask
 
+# install packages
+pip install flask tensorflow
+
 # Start the web application
 python app.py
 
