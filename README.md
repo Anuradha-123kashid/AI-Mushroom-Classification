@@ -9,7 +9,6 @@
 ### Home Page:
 <p align="center">
  <img src="https://drive.google.com/uc?export=view&id=1xx0FDbah3uF6loz7lk7S477n_RI3yLyI" width="800" height="auto" alt="Home Page">
-
 </p>
 
 ### Mushroom Classification Result:
