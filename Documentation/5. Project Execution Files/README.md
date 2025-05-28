@@ -29,8 +29,8 @@ conda create -n mushroom_classifier python=3.10.16
 conda activate mushroom_classifier
 
 # Clone the repository
-git clone https://github.com/prajwalnikam/AI-Mushroom-Classification-Analysis.git
-cd AI-Mushroom-Classification-Analysis-master
+git clone https://github.com/Anuradha-123kashid/AI-Mushroom-Classification.git
+cd AI-Mushroom-Classification
 
 # Install dependencies
 pip install -r requirements.txt
